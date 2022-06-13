@@ -9,3 +9,5 @@ This is not an original project but rather a project from the Udemy course "Reac
 
   The project contains Java Script, CSS, and HTML and requires the installation of NodeJS to work properly since the project utilizes a React framework.
   Additionally, all dependencies have already been downloaded as of the initial commit.
+
+  Use 'npm start' to run the enviornment
