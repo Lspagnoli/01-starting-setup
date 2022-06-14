@@ -1,3 +1,4 @@
+# Introduction to JavaScript
 This is not an original project but rather a project from the Udemy course "React - The Complete Guide". Thus, all credit goes to Maximilian Schwarzmüller, the instructor for the course. 
 
   The course can be found [HERE](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?LSNPUBID=yFouE4wh9Xg&ranEAID=yFouE4wh9Xg&ranMID=39197&ranSiteID=yFouE4wh9Xg-z8XhG3dueHzD6RfmYWDqOA&utm_medium=udemyads&utm_source=aff-campaign)
